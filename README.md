@@ -2,7 +2,7 @@
 <h1 align="center"><b>Xky_ley_3.0🥷🖤 ✅𝗩𝗫5</b>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+BXky_ley_3.0🥷🖤+Created+By+Leybot..&heart;++;Self-taught+Back-Created+By,;Leybot+Ley+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Am+Xky_ley_3.0🥷🖤+Created+By+Leybot..&heart;++;Self-taught+Back-Created+By,;Leybot+Ley+Am+The,;Best+Is+Bot+For+You+To,;Deploy..<3"></a>
 </p>
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>                       
   <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/bd01f25e0716d0f9c6ad3.jpg" alt="01" border="0" /></a>     
@@ -29,7 +29,7 @@
 <br>
 
 
-[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Leybot/Black-panther-md-x)[Xky_ley_3.0🥷🖤: LATEST]
+[![Deploy on heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/Leybot/BLACK-PANTHER-XMD)[Xky_ley_3.0🥷🖤: LATEST]
 
 <br>
 
